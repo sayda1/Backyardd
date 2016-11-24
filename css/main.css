@@ -99,9 +99,10 @@ button{
  box-sizing: border-box;
 }
 
+
 @media (max-width:900px)
 {
-	.container
+	.containe
 	{
 		width: 700px;
 	}
