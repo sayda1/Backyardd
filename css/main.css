@@ -1,6 +1,4 @@
-*{
-	outline: 1px solid rgba(255,0,0,0.4);
-}
+
 .clearfix
 {
 	display: table;
@@ -104,9 +102,7 @@ footer span{
     margin: 1px;
     
 }
-footer{
-   
-}
+
 
 @media (max-width:900px)
 {
