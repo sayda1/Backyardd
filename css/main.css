@@ -45,12 +45,14 @@ header{
 }
 
 section
-{
+{ 
+    padding-bottom: 60px;
     color: white;
 	background: #8C8C8C;
 }
 .container
 {
+    
 	width: 900px;
 	margin: 0 auto;
 }
@@ -59,7 +61,6 @@ section
 {
 	float: left;
 	box-sizing: border-box;
-	padding: 10px;
 }
 
 .col-1
@@ -98,11 +99,18 @@ button{
  border: none;
  box-sizing: border-box;
 }
-
+footer span{
+    color: blue;
+    margin: 1px;
+    
+}
+footer{
+   
+}
 
 @media (max-width:900px)
 {
-	.containe
+	.container
 	{
 		width: 700px;
 	}
