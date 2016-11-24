@@ -66,6 +66,9 @@ section
 {
 	width: 60%;
 }
+.col-1 p{
+   color: #BFBFBF; 
+}
 .col-1 h1{
    
     font-size: 42px;
